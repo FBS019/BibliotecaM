@@ -5,11 +5,11 @@ Fazer a modelagem de um aplicativo para a comunidade (identificar o Product Owne
 
 Equipe:
 
-Autores
-    - Caio Cesar da Silva – RA 2760482511018
-    - Felipe Batista dos Santos – RA 2760482511007
-    - Juan Carlos Fedel Dos Santos – RA 2760482511034
-    - Ricardo Gabriel Camargo Soares – RA 2760482511026
+Autores <br>
+    - Caio Cesar da Silva – RA 2760482511018 <br>
+    - Felipe Batista dos Santos – RA 2760482511007 <br> 
+    - Juan Carlos Fedel Dos Santos – RA 2760482511034 <br>
+    - Ricardo Gabriel Camargo Soares – RA 2760482511026 <br>
 
 Etapa 1 – Requisitos (Diagrama de Casos de Uso)
 - Identificar os Atores
