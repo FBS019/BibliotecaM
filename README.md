@@ -4,7 +4,8 @@
 Fazer a modelagem de um aplicativo para a comunidade (identificar o Product Owner e a comunidade a ser atendida). 
 
 Equipe:
-   Autores
+
+Autores
     - Caio Cesar da Silva – RA 2760482511018
     - Felipe Batista dos Santos – RA 2760482511007
     - Juan Carlos Fedel Dos Santos – RA 2760482511034
